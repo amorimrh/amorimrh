@@ -5,7 +5,6 @@ Atualmente, foco meus estudos no desenvolvimento em Python — criando jogos e l
 - 🎓 Estudante de Ciência da Computação.
 - 💻 Experiência com montagem, manutenção de hardware e diagnóstico de problemas.
 - 🌐 Conhecimentos em Redes de Computadores e protocolos IP.
-- 🎬 Nos momentos livres, gosto de organizar ideias e explorar a edição de vídeos com Sony Vegas.
 
 ---
 
