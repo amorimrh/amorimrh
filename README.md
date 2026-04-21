@@ -43,5 +43,3 @@ Atualmente, foco meus estudos no desenvolvimento em Python — criando jogos e l
 </div>
 
 <br>
-
-*Nota: Não esqueça de substituir `SEU_USUARIO_AQUI` pelo seu nome de usuário real do GitHub nos links das estatísticas!*
