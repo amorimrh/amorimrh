@@ -1,10 +1,9 @@
 # Olá! Bem-vindo(a) ao meu perfil! 👋
 
-Sou estudante de **Ciência da Computação**, entusiasta do desenvolvimento de software e apaixonado pela área de **Segurança da Informação**. Gosto de entender como as coisas funcionam, desde a lógica de um código até a infraestrutura de redes e hardware.
+Sou estudante de **Ciência da Computação**, entusiasta da **Tecnologia** e suas devastas areas. Gosto de entender como as coisas funcionam, desde a lógica de um código até a infraestrutura de redes e hardware.
 
 Atualmente, foco meus estudos no desenvolvimento em Python — criando jogos e lógicas de simulação — e no aprimoramento de habilidades de infraestrutura, sistemas operacionais e proteção de redes.
 
-### 🚀 Sobre mim
 - 🎓 Estudante de Ciência da Computação.
 - 💻 Experiência com montagem, manutenção de hardware e diagnóstico de problemas.
 - 🌐 Conhecimentos em Redes de Computadores e protocolos IP.
@@ -33,13 +32,6 @@ Atualmente, foco meus estudos no desenvolvimento em Python — criando jogos e l
 | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,notion" /></a> |
 
 </div>
-
----
-
-### 🧠 No que estou trabalhando agora?
-- 🕹️ Desenvolvendo simulações, mecânicas de jogos e automações em Python.
-- 🔐 Estudando vulnerabilidades e práticas de segurança defensiva em redes.
-- ⚙️ Otimizando ambientes e explorando recursos do Linux Ubuntu e Windows.
 
 ---
 
