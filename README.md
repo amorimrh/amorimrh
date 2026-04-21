@@ -30,14 +30,4 @@ Atualmente, foco meus estudos no desenvolvimento em Python — criando jogos e l
 | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,notion" /></a> |
 
 </div>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amorimrh&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amorimrh&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
 <br>
