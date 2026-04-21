@@ -1,5 +1,3 @@
-# Olá! Bem-vindo(a) ao meu perfil! 👋
-
 Sou estudante de **Ciência da Computação**, entusiasta da **Tecnologia** e suas devastas areas. Gosto de entender como as coisas funcionam, desde a lógica de um código até a infraestrutura de redes e hardware.
 
 Atualmente, foco meus estudos no desenvolvimento em Python — criando jogos e lógicas de simulação — e no aprimoramento de habilidades de infraestrutura, sistemas operacionais e proteção de redes.
