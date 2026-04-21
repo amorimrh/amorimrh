@@ -1,15 +1,14 @@
 # Olá! Bem-vindo(a) ao meu perfil! 👋
 
-Sou estudante de **Ciência da Computação**, entusiasta do desenvolvimento de software e apaixonado pela área de **Segurança da Informação**. Adoro entender como as coisas funcionam "debaixo do capô", desde a lógica do código até a infraestrutura de redes e hardware.
+Sou estudante de **Ciência da Computação**, entusiasta do desenvolvimento de software e apaixonado pela área de **Segurança da Informação**. Gosto de entender como as coisas funcionam, desde a lógica do código até a infraestrutura de redes e hardware.
 
 Atualmente, foco meus estudos em Python — desenvolvendo projetos de jogos e lógica de IA — e no aprimoramento de habilidades em infraestrutura e sistemas.
 
 ### 🚀 Sobre mim
 - 🎓 Estudante de Ciência da Computação.
-- 🛡️ Apaixonado por **Cybersecurity** e defesa digital.
 - 💻 Experiência com montagem, manutenção de hardware e diagnóstico de problemas.
 - 🌐 Conhecimentos em Redes de Computadores e protocolos IP.
-- 🐧 Usuário entusiasta de Linux (especialmente **Ubuntu**) e Windows.
+- 🐧 Usuário entusiasta de Linux e Windows.
 
 ---
 
