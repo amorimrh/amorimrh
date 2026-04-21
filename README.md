@@ -14,17 +14,25 @@ Atualmente, foco meus estudos no desenvolvimento em Python — criando jogos e l
 
 ### 🛠️ Tecnologias e Ferramentas
 
-**Desenvolvimento Front-end & Back-end:** <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,bootstrap" />
-</a>
+<div align="center">
 
-**Sistemas Operacionais & Infraestrutura:** <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ubuntu,linux,windows" />
-</a>
+| 💻 Desenvolvimento Front-end & Back-end |
+| :---: |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,html,css,js,bootstrap" /></a> |
 
-**Versionamento & Organização:** <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,notion" />
-</a>
+<br>
+
+| ⚙️ Sistemas Operacionais & Infraestrutura |
+| :---: |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ubuntu,linux,windows" /></a> <img src="https://img.shields.io/badge/Redes_&_IP-00599C?style=flat&logo=cisco&logoColor=white" height="48" /> <img src="https://img.shields.io/badge/Hardware-4D4D4D?style=flat&logo=microchip&logoColor=white" height="48" /> |
+
+<br>
+
+| 🧰 Versionamento, Organização & Outros |
+| :---: |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,notion" /></a> <img src="https://img.shields.io/badge/Sony_Vegas-00519E?style=flat&logo=vegas&logoColor=white" height="48" /> <img src="https://img.shields.io/badge/Segurança-111111?style=flat&logo=tryhackme&logoColor=white" height="48" /> |
+
+</div>
 
 ---
 
